@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins';
+  }
+  #nave{
+    
+    height: 60px;
+    color: white;
+    padding-top: 30px;
+  }
+  #n1
+  {
+    padding-left: 50px;
+    cursor: pointer;
+  }
+  .n2 ul li{
+   list-style: none;
+   display: inline-block;
+  
+  }
+  .n2 ul li a{
+    text-decoration: none;
+    color: white;
+  }
+  #banner{
+    
+    height: 570px;
+    padding-left: 50px;
+    padding-top:90px;
+  }
+  
+  #div1{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(banner.jpg);
+    background-size: cover;
+    background-position: center
+    
+  }
+  #div2{
+    padding-top: 100px;
+    text-align: center;
+    height: 500px;
+  }
+  #div3{
+    background-color: #171A1FD9;
+    
+    color: white;
+    height: 450px;
+  }
+  #div3-1{
+    padding-top: 200px;
+    padding-left: 130px;
+  }
+  #div3-2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 22px;
+  }
+  #div4{
+    background-color: white;
+    height: auto;
+  }
+  #v1{
+    color: white;
+    background-color: #E05858FF;
+    padding: 10px 20px;
+    border: none;
+  }
+  #g1{
+    color: white;
+    background-color: #9095A0FF;;
+    padding: 10px 20px;
+    border: none; 
+  }
+  #div4-1{
+    padding-top: 150px;
+    text-align: center;
+  }
+  #b2{
+    color: white;
+    background-color: #E05858FF;
+    padding: 10px 25px;
+    border: none;
+  }
+  #div5{
+    background-color: #171A1FD9;
+    height: 600px;
+  }
+  #b1{
+    width: 350px;
+    height: 200px;
+    
+    background-image: url(p2.jpg);
+    background-size: cover;
+    background-position: center
+    
+  }
+ 
+  #div6{
+    background-color: #171A1FD9;
+    height: 720px;
+    width:100%;
+  }
+  #div6-1
+  {
+    
+    height: 400px;
+    color: white;
+  }
+ #div6-1-1{
+  width: 100%;
+  height: 100px;
+  
+  padding-top: 50%;
+ }
+ #div7{
+  width: 100%;
+  height: 70px;
+  background-color:  #171A1FD9;
+  color: white;
+  text-align: center;
+ }
+ 
+ 
+ input[type=text],textarea
+  {
+  background-color: transparent;
+  
+  border: 1px solid #9095A0FF;
+}
+
+ #f1{
+  
+  padding-top: 70px;
+ }
+ #f2{
+  padding-top: 10px;
+ }
+ #sub{
+  width: 100%;
+  height: 40px;
+  background-color: #E05858FF;
+  color: white;
+  border: none;
+ }
